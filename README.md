@@ -9,7 +9,7 @@ TextUtils is a simple text utility web application that provides various text ma
 - Copy text to clipboard 📋
 - Dark mode support 🌙
 
-## Technologies Used
+## Tech Stack 🛠️
 
 - React.js for frontend
 
